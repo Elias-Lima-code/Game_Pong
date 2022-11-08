@@ -34,7 +34,6 @@ window.onkey(ft.partial(remove_key, "Left"), "Left")
 window.onkey(ft.partial(remove_key, "d"), "d")
 
 
-
 while True:
     window.update()
     game.read_input(pressed_keys)

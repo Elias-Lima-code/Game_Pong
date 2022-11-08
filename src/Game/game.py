@@ -194,3 +194,4 @@ class Game():
 
         if self.player_b.ycor() <- 245:
             self.player_b.sety(-245)
+
